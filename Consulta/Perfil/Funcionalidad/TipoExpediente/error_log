@@ -1,0 +1,4 @@
+[14-May-2020 05:03:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/TipoExpediente/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/TipoExpediente/Llamar.php on line 15

@@ -1,0 +1,145 @@
+[30-Mar-2020 00:37:39 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 00:37:39 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 00:40:32 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 00:40:32 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 00:52:55 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 00:52:55 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 00:55:44 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 00:55:44 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 00:56:44 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 00:56:44 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 00:57:15 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 00:57:15 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 00:58:51 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 00:58:51 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:18:39 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:18:39 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:18:39 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:18:39 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:19:12 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:19:12 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:20:01 UTC] PHP Warning:  move_uploaded_file(./URL/chico.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:20:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7Uc0PV' to './URL/chico.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:21:06 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:21:06 UTC] PHP Warning:  move_uploaded_file(./URL/chico.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:21:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWSEBq7' to './URL/chico.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:21:57 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:21:57 UTC] PHP Warning:  move_uploaded_file(./URL/chico.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:21:57 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpn984Fl' to './URL/chico.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:23:25 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:23:25 UTC] PHP Warning:  move_uploaded_file(./URL/chico.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:23:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpebtDNt' to './URL/chico.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:24:14 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:24:14 UTC] PHP Warning:  move_uploaded_file(./URL/chico.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:24:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGMC9b0' to './URL/chico.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:25:51 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:25:51 UTC] PHP Warning:  move_uploaded_file(./URL/chico.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:25:51 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php37OU7g' to './URL/chico.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:26:25 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:26:25 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:26:25 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:26:25 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:28:09 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:28:43 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:28:47 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:29:30 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:31:11 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:31:44 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:32:41 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:33:03 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:33:03 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:35:33 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:35:33 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:35:49 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:35:49 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:39:51 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:39:51 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:41:13 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:41:13 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:42:31 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:42:31 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:43:30 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:43:30 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:43:51 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:43:51 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:44:04 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:44:04 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:44:37 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:44:37 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:44:45 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:44:45 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirDNI in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 9
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirUsuario in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 10
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirClave in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 11
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirPerfil in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 12
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirNombres in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 13
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirApellidoPaterno in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 14
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirApellidoMaterno in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 15
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirDireccion in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 16
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirTelefono in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 17
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirGenero in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 18
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirIdOficina in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 19
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirIdCargo in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 20
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 28
+[30-Mar-2020 01:49:02 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 29
+[30-Mar-2020 01:50:14 UTC] PHP Warning:  move_uploaded_file(./URL/chico.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 01:50:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAYVsHm' to './URL/chico.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 02:01:04 UTC] PHP Warning:  move_uploaded_file(./URL/chico.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 02:01:04 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIUjKje' to './URL/chico.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 50
+[30-Mar-2020 18:30:50 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 44
+[30-Mar-2020 18:30:50 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 44
+[30-Mar-2020 18:31:08 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 44
+[30-Mar-2020 18:31:08 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 44
+[30-Mar-2020 18:31:22 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 44
+[30-Mar-2020 18:31:22 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 44
+[31-Mar-2020 00:49:23 UTC] PHP Warning:  move_uploaded_file(./URL/usuario.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/GuardarImagen.php on line 21
+[31-Mar-2020 00:49:23 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwjpv40' to './URL/usuario.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/GuardarImagen.php on line 21
+[31-Mar-2020 00:53:46 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 36
+[31-Mar-2020 00:53:46 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 36
+[31-Mar-2020 00:56:23 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 36
+[31-Mar-2020 00:56:23 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 36
+[31-Mar-2020 00:56:35 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 36
+[31-Mar-2020 00:56:35 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 36
+[31-Mar-2020 00:57:50 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 36
+[31-Mar-2020 00:57:50 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 50
+[31-Mar-2020 00:57:50 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 36
+[31-Mar-2020 00:57:50 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 50
+[31-Mar-2020 00:58:04 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 36
+[31-Mar-2020 00:58:04 UTC] PHP Notice:  Undefined index: Imagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Listar.php on line 36
+[31-Mar-2020 01:11:12 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/GuardarImagen.php on line 8
+[31-Mar-2020 01:11:12 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/GuardarImagen.php on line 16
+[31-Mar-2020 01:11:12 UTC] PHP Notice:  Undefined index: TransferirImagen in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/GuardarImagen.php on line 17
+[31-Mar-2020 13:59:27 UTC] PHP Warning:  move_uploaded_file(./Usuario/usuario (1).png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/GuardarImagen.php on line 21
+[31-Mar-2020 13:59:27 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRBStmu' to './Usuario/usuario (1).png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/GuardarImagen.php on line 21
+[31-Mar-2020 14:00:34 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[31-Mar-2020 14:00:34 UTC] PHP Warning:  move_uploaded_file(./URL/usuario (1).png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 48
+[31-Mar-2020 14:00:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphQ6p3i' to './URL/usuario (1).png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 48
+[31-Mar-2020 14:06:21 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[31-Mar-2020 14:06:21 UTC] PHP Warning:  move_uploaded_file(./URL/usuario.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 48
+[31-Mar-2020 14:06:21 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5XDJDh' to './URL/usuario.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 48
+[31-Mar-2020 14:07:17 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[31-Mar-2020 14:07:17 UTC] PHP Warning:  move_uploaded_file(./URL/usuario.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 48
+[31-Mar-2020 14:07:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpycWJxy' to './URL/usuario.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 48
+[31-Mar-2020 15:10:41 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[31-Mar-2020 15:10:41 UTC] PHP Warning:  move_uploaded_file(./URL/usuario.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 48
+[31-Mar-2020 15:10:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbDqh1M' to './URL/usuario.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 48
+[31-Mar-2020 15:12:09 UTC] PHP Warning:  move_uploaded_file(./Usuario/usuario.png): failed to open stream: No such file or directory in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/GuardarImagen.php on line 21
+[31-Mar-2020 15:12:09 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKFyqsj' to './Usuario/usuario.png' in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/GuardarImagen.php on line 21
+[03-Apr-2020 01:54:52 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[08-Apr-2020 16:54:52 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[14-May-2020 04:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Llamar.php on line 15
+[17-May-2020 16:51:33 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[17-May-2020 16:55:45 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[17-May-2020 17:00:40 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[20-May-2020 19:40:26 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[22-May-2020 14:32:31 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[22-May-2020 14:35:44 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[05-Jun-2020 16:09:13 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[05-Jun-2020 16:15:56 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[06-Jun-2020 03:59:43 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[06-Jun-2020 04:02:54 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8
+[06-Jun-2020 04:05:10 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Usuario/Grabar.php on line 8

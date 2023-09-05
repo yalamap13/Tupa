@@ -1,0 +1,57 @@
+[25-Feb-2020 22:23:53 UTC] PHP Notice:  Undefined index: TransferirTransferirNombres in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 9
+[25-Feb-2020 22:23:57 UTC] PHP Notice:  Undefined index: TransferirTransferirNombres in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 9
+[31-Mar-2020 16:55:12 UTC] PHP Notice:  Undefined index: URL in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Listar.php on line 41
+[31-Mar-2020 16:55:12 UTC] PHP Notice:  Undefined index: URL in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Listar.php on line 41
+[31-Mar-2020 17:05:41 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[31-Mar-2020 17:05:47 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[31-Mar-2020 17:06:50 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[31-Mar-2020 17:06:53 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[31-Mar-2020 17:07:10 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 8
+[01-Apr-2020 05:48:17 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[01-Apr-2020 05:49:20 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[01-Apr-2020 15:54:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 20
+[01-Apr-2020 15:54:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 23
+[01-Apr-2020 15:54:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 26
+[01-Apr-2020 15:54:40 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 34
+[01-Apr-2020 15:54:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 20
+[01-Apr-2020 15:54:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 23
+[01-Apr-2020 15:54:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 26
+[01-Apr-2020 15:54:42 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 34
+[01-Apr-2020 15:54:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 20
+[01-Apr-2020 15:54:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 23
+[01-Apr-2020 15:54:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 26
+[01-Apr-2020 15:54:42 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Estado.php on line 34
+[01-Apr-2020 16:21:52 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[01-Apr-2020 16:26:14 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[01-Apr-2020 16:26:19 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[01-Apr-2020 16:26:42 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[01-Apr-2020 16:26:50 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[01-Apr-2020 16:47:49 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 00:55:21 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 00:55:36 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 00:56:29 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 00:56:37 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 00:56:55 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 00:57:02 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 01:02:50 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 01:55:33 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 01:55:45 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 01:55:55 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 01:56:01 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 01:57:37 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[03-Apr-2020 02:00:05 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[04-Apr-2020 17:13:13 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[14-May-2020 05:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Tupa/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Tupa/Llamar.php on line 15
+[14-May-2020 05:04:22 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20
+[17-May-2020 15:35:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Tupa/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Tupa/Llamar.php on line 15
+[17-May-2020 15:35:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Tupa/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Tupa/Llamar.php on line 15
+[20-May-2020 19:42:07 UTC] PHP Notice:  Undefined index: TransferirDocumento in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Tupa/Grabar.php on line 20

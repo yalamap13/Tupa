@@ -1,0 +1,189 @@
+[25-Feb-2020 22:23:53 UTC] PHP Notice:  Undefined index: TransferirTransferirNombres in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 9
+[25-Feb-2020 22:23:57 UTC] PHP Notice:  Undefined index: TransferirTransferirNombres in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 9
+[29-Mar-2020 10:25:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Listar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Listar.php on line 11
+[29-Mar-2020 10:27:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Listar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Listar.php on line 11
+[29-Mar-2020 10:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Listar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Listar.php on line 11
+[29-Mar-2020 11:12:00 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[29-Mar-2020 11:12:07 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[29-Mar-2020 11:16:30 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[29-Mar-2020 13:12:13 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 01:51:25 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 01:52:32 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 01:52:47 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 01:52:50 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 01:52:53 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 01:52:59 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 01:53:25 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:20:38 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:21:05 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:23:50 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:24:58 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:25:27 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:41:42 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:42:17 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:43:08 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:44:43 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:46:17 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:47:16 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:47:51 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:48:20 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:49:13 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:49:58 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:50:32 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:52:21 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:53:47 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:54:23 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:55:42 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:56:27 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:57:14 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:57:49 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:58:13 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:58:32 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 02:59:32 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[03-Apr-2020 03:15:03 UTC] PHP Notice:  Undefined index: TransferirId in /home/zpv17fh04ho4/public_html/Tupa1/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[14-May-2020 04:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[14-May-2020 05:00:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[16-May-2020 02:06:56 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[16-May-2020 02:06:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[16-May-2020 02:07:14 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[16-May-2020 02:07:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[16-May-2020 02:07:47 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 16:27:03 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 16:27:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 16:28:50 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 16:28:59 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 16:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 16:29:09 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 16:29:13 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 16:29:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 16:29:17 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 16:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 16:29:28 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 18:34:06 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 18:34:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 18:38:53 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 18:38:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 18:39:04 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 18:40:45 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 18:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 18:41:18 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 18:41:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 18:41:25 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 18:41:33 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 18:42:31 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 18:42:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 18:42:37 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 18:43:08 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 18:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 18:43:13 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 18:43:59 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 18:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 18:44:06 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 18:44:36 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 18:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 18:44:42 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 18:45:04 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 18:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 18:45:09 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 18:46:02 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[17-May-2020 18:46:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[17-May-2020 18:46:09 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[17-May-2020 18:46:15 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[18-May-2020 00:54:27 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[18-May-2020 00:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[18-May-2020 01:02:55 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[18-May-2020 01:02:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 15
+[18-May-2020 01:03:00 UTC] PHP Notice:  Undefined index: TransferirId in /home/pgnck8v1i21f/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[20-May-2020 00:14:12 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[20-May-2020 00:14:19 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[20-May-2020 00:16:10 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[20-May-2020 00:16:17 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[20-May-2020 00:16:53 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[20-May-2020 00:17:00 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[20-May-2020 00:17:57 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[20-May-2020 00:18:09 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[20-May-2020 18:35:24 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[20-May-2020 18:35:28 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[20-May-2020 18:38:10 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[20-May-2020 18:38:16 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[20-May-2020 18:50:39 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[20-May-2020 18:50:46 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Grabar.php on line 8
+[20-May-2020 19:27:44 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[20-May-2020 19:37:32 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[22-May-2020 14:32:54 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[06-Jun-2020 00:40:59 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[06-Jun-2020 00:41:04 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[06-Jun-2020 04:00:00 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[06-Jun-2020 04:00:09 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[06-Jun-2020 04:05:22 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[14-Jun-2020 17:16:49 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10
+[14-Jun-2020 20:02:32 UTC] PHP Notice:  Undefined index: TransferirId in /home/xofnnano9m8o/public_html/Tupa/Consulta/Perfil/Funcionalidad/Oficinas/Llamar.php on line 10

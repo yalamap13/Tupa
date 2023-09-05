@@ -1,0 +1,12 @@
+[18-Feb-2020 04:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zpv17fh04ho4/public_html/Sondorillo/Consulta/Perfil/Funcionalidad/TipoDepartamento/Listar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zpv17fh04ho4/public_html/Sondorillo/Consulta/Perfil/Funcionalidad/TipoDepartamento/Listar.php on line 11
+[16-Mar-2020 14:01:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Perfil/Funcionalidad/Area/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Perfil/Funcionalidad/Area/Llamar.php on line 15
+[16-Mar-2020 14:02:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Perfil/Funcionalidad/Area/Llamar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Perfil/Funcionalidad/Area/Llamar.php on line 15

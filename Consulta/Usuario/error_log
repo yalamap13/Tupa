@@ -1,0 +1,17 @@
+[20-Feb-2020 19:22:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Sondorillo/Consulta/Usuario/IniciarUsuario.php on line 14
+[20-Feb-2020 19:22:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Sondorillo/Consulta/Usuario/IniciarUsuario.php on line 14
+[25-Feb-2020 21:09:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'ViasPeruanas'@'localhost' to database 'tupa' in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Conectar.php on line 7
+[25-Feb-2020 21:09:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'ViasPeruanas'@'localhost' to database 'tupa' in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Conectar.php on line 7
+[25-Feb-2020 21:09:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'ViasPeruanas'@'localhost' to database 'tupa' in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Conectar.php on line 7
+[25-Feb-2020 21:09:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'ViasPeruanas'@'localhost' to database 'tupa' in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Conectar.php on line 7
+[25-Feb-2020 21:09:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'ViasPeruanas'@'localhost' to database 'tupa' in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Conectar.php on line 7
+[15-Mar-2020 23:12:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Usuario/IniciarUsuario.php on line 14
+[15-Mar-2020 23:12:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Usuario/IniciarUsuario.php on line 14
+[15-Mar-2020 23:12:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Usuario/IniciarUsuario.php on line 14
+[15-Mar-2020 23:12:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Usuario/IniciarUsuario.php on line 14
+[15-Mar-2020 23:12:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Usuario/IniciarUsuario.php on line 14
+[15-Mar-2020 23:12:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Usuario/IniciarUsuario.php on line 14
+[15-Mar-2020 23:12:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Usuario/IniciarUsuario.php on line 14
+[15-Mar-2020 23:12:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Usuario/IniciarUsuario.php on line 14
+[15-Mar-2020 23:15:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Usuario/IniciarUsuario.php on line 14
+[15-Mar-2020 23:15:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/zpv17fh04ho4/public_html/Tupa/Consulta/Usuario/IniciarUsuario.php on line 14
